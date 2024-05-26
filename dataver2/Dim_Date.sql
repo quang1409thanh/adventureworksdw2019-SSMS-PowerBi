@@ -11,4 +11,4 @@ SELECT
   [CalendarYear] AS Year --,[CalendarSemester]
 FROM 
   [AdventureWorksDW2019].[dbo].[DimDate]
-WHERE CalendarYear >= 2019;
+WHERE CalendarYear >= 2020;
